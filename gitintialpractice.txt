@@ -1,0 +1,9 @@
+ git status                                                                                                      
+   3 git add.                                                                                                        
+   4 git add .                                                                                                       
+   5 git status                                                                                                      
+   6 git commit -m "2nd commit"                                                                                      
+   7 git status                                                                                                      
+   8 git log                                                                                                         
+   9 git push origin main 
+   
